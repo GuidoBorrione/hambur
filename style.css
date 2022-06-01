@@ -11,7 +11,7 @@ a{text-decoration:none;}
 .header{
 	width: 100%;
 	height: 100vh;
-	background-image: url("Image/banner1.png");
+	background-image: url("image/banner1.png");
 	background-position: center; 
 	background-size: cover; 
 	background-repeat: no-repeat;
@@ -358,7 +358,7 @@ a{text-decoration:none;}
   width: 100%;
   height: 100vh;	
   text-align: center;
-  background-image: url("Image/b4 background2.png");
+  background-image: url("image/b4 background2.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -434,7 +434,7 @@ transform: scale3d(1.05, 1.05, 1.05);
 .footer-content{
 	width: 100%;
 	height: 455px;
-	background-image: url("Image/fondo\ footer.png");
+	background-image: url("image/fondo\ footer.png");
 	background-position: center; 
 	background-size: cover; 
 	background-repeat: no-repeat;
